@@ -6,6 +6,7 @@ Este repositório contém a minha evolução nos estudos de Python, organizado p
 
 * **[Lesson-01](./Lesson-01-Fundamentos):** Operações matemáticas, entrada de dados e tipos de variáveis (Exercícios 1 ao 16).
 * **[Lesson-02](./Lesson-02-Estruturas):** Condicionais (if/else), laços de repetição e estruturas de dados (Exercícios 1 ao 17).
+* **[Lesson-03:](./Lesson-03-Lógica-de-Decisão-e-Condicionais):** conectivos lógicos (`and`, `or`) e condicionais aninhadas (Exercícios 1 ao 16).
 
 ## 🚀 Tecnologias Utilizadas
 * Python 3.x
